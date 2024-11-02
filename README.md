@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/-ROS-563D7C?style=flat-square&logo=ros"/>
 </p>
 
-![](https://raw.githubusercontent.com/xxhfln/xxhfln/refs/heads/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/xxhfln/xxhfln/refs/heads/main/assets/github-contribution-grid-snake.svg)
 
 ### 个人简介
 - 🐕 姓名: 谢晓辉
