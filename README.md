@@ -17,7 +17,7 @@
 - 🐕 姓名: 谢晓辉
 - 👦 性别: 男
 - 🌏 现居: 广东东莞
-- 📫How to reach me: Email: xxhfln@gmail.com QQ: 1564781600
+- 📫How to reach me: Email: xxhfln@gmail.com
 
 ### 仓库信息
 <p align = "center">
