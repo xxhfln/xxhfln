@@ -14,9 +14,8 @@
 ![](https://raw.githubusercontent.com/xxhfln/xxhfln/refs/heads/main/assets/github-contribution-grid-snake.svg)
 
 ### 个人简介
-- 🐕 姓名: 谢晓辉
 - 👦 性别: 男
-- 🌏 现居: 广东东莞
+- 🌏 现居: 广东广州
 - 📫How to reach me: Email: xxhfln@gmail.com
 
 ### 仓库信息
